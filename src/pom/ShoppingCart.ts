@@ -30,6 +30,10 @@ export class ShoppingCart {
         return this._description;
     }
 
+    get cartItems(): Locator {
+        return this._cartItems;
+    }
+
     async continueShopping() {
         await this._continueShopping.click();
     }

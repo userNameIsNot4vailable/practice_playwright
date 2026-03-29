@@ -34,6 +34,7 @@ test('end to end test case', async ({ page }) => {
   await productsPage.removeItemFromCart('Sauce Labs Backpack');
   await productsPage.goToShoppingCart();
   await expect(shoppingCart.description).toBeVisible();
+  await expect(shoppingCart.cartItems).toHaveCount(3);
 
   await shoppingCart.removeItemByName('Sauce Labs Onesie');
   await shoppingCart.checkout();
