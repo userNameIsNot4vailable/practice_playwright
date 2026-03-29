@@ -1,11 +1,11 @@
 import { test, expect } from '@playwright/test';
-import {LoginPage} from "../src/LoginPage";
-import {ProductsPage} from "../src/ProductsPage";
-import {ItemPage} from "../src/ItemPage";
-import {CheckoutPage} from "../src/CheckoutPage";
-import {CompletePage} from "../src/CompletePage";
-import {OverviewPage} from "../src/OverviewPage";
-import {ShoppingCart} from "../src/ShoppingCart";
+import {LoginPage} from "../../src/pom/LoginPage";
+import {ProductsPage} from "../../src/pom/ProductsPage";
+import {ItemPage} from "../../src/pom/ItemPage";
+import {CheckoutPage} from "../../src/pom/CheckoutPage";
+import {CompletePage} from "../../src/pom/CompletePage";
+import {OverviewPage} from "../../src/pom/OverviewPage";
+import {ShoppingCart} from "../../src/pom/ShoppingCart";
 
 test('end to end test case', async ({ page }) => {
   const loginPage: LoginPage = new LoginPage(page);
