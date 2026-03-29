@@ -18,15 +18,18 @@ Kedves Felhasználóink!
 
 Örömmel értesítünk benneteket a legújabb frissítéseinkről, amelyek jobb adatvédelmet, gördülékenyebb foglalásokat és megbízhatóbb működést hoznak nektek:
 
-🛡️ Erősített adatvédelem
-Új cookie kezelő pluginnal tesszük teljes mértékben GDPR-kompatibilissé weboldalunkat. Ezentúl te döntöd el pontosan, milyen adatokat engedsz meg, így nagyobb kontrollod van a személyes adataid felett.
+🛡️ Erősített adatvédelem:
 
-🌐 Seamless foglalásszinkron
-A Booking, Airbnb és más népszerű platformok foglalásai mostantól automatikusan szinkronizálódnak a rendszerünkkel – mindkét irányban. Nem kell kétszer ellenőrizned, hol állsz a foglaltságaiddal!
+A weboldalunk teljes mértékben GDPR-kompatibilissé vált. Ezentúl te döntöd el pontosan, milyen adatokat engedsz meg, így nagyobb kontrollod van a személyes adataid felett.
 
-⚡ Még nagyobb megbízhatóság
+🌐 Foglalásszinkron:
+
+A Booking, Airbnb és más népszerű platformok foglalásai mostantól automatikusan szinkronizálódnak a rendszerünkkel – mindkét irányban. Nem kell kétszer ellenőrizned, hol állsz a foglalásaiddal!
+
+⚡ Még nagyobb megbízhatóság:
+
 Új, okos monitoring rendszer figyeli nonstop a szolgáltatást. Ha bármi gond lenne, a csapatunk azonnal értesítést kap, így a leállások esélye minimálisra csökkent.
 
-Köszönjük, hogy velünk vagy – a visszajelzéseid segítenek még jobbak lenni!
+Köszönjük, hogy velünk vagytok – a visszajelzéseitek segítenek még jobbak lenni!
 
 A csapattól
