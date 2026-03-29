@@ -1,9 +1,9 @@
-First steps:
-
-node version: 24.14.0
+Quick launch:
 
 npm install
 
 npx playwright install
 
 npx playwright test
+
+node version i was using: 24.14.0
